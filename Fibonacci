@@ -1,0 +1,10 @@
+x= int(input("How many terms you need?"))
+a1,a2 = 0,1
+y = 0
+if a<=0:
+  print("Error.Choose another integer")
+else if a>=1:
+b= a1 + a2
+a1 = a2
+a2 = b
+count +=1
